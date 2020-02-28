@@ -1,0 +1,1 @@
+<input name="gtgContact_address_2" id="gtgContact_address_2" type="text" class="code" value="<?php echo get_option( 'gtgContact_address_2' ); ?>" /> <?php _e('Address second line.','gtgContact');?>

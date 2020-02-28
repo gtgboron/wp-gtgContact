@@ -1,0 +1,1 @@
+<input name="gtgContact_email" id="gtgContact_email" type="text" class="code" value="<?php echo get_option( 'gtgContact_email' ); ?>" /> adres email na który będą przychodziły maile kontaktowe.

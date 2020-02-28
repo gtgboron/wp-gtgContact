@@ -1,0 +1,1 @@
+<input name="gtgContact_telephone_1" id="gtgContact_telephone_1" type="text" class="code" value="<?php echo get_option( 'gtgContact_telephone_1' ); ?>" /> telefon 1.

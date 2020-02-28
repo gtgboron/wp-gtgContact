@@ -1,0 +1,63 @@
+.map-container{
+    width:100%;
+}
+.map-container iframe{
+    width:100%;
+    height: 400px;
+}
+
+.col50{
+    width:50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.gtgContactInput {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.gtgContactButton {
+    box-sizing: border-box;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.gtgContactButton:hover {
+    background-color: #45a049;
+}
+  
+.gtgAlert {
+    padding: 10px;
+    border-radius: 2px;
+    color: black;
+}
+.gtgAlert-success{
+    background: rgb(159, 228, 159);
+    border: solid rgb(58, 109, 58) 1px;
+}
+.gtgAlert-danger{
+    background: rgb(255, 171, 171);
+    border: solid rgb(183, 69, 69) 1px;
+    color: #6b0808;
+}
+.col-right-pad{
+    padding-right:10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .col50{
+      width:100%;
+    }
+    .col-right-pad{
+        padding-right:0;
+    }
+}

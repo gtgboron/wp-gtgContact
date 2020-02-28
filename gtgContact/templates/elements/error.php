@@ -1,0 +1,1 @@
+<div class='gtgAlert gtgAlert-danger'><?php echo $args['error']; ?></div>

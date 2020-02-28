@@ -1,0 +1,1 @@
+<input name="gtgContact_map" id="gtgContact_map" type="text" class="code" value="<?php echo get_option( 'gtgContact_map' ); ?>" /> zapytanie do google maps.

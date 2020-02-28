@@ -1,0 +1,1 @@
+<p>Ustawienia strony kontaktowej przygotowane przez gtg-boron.pl :)</p>

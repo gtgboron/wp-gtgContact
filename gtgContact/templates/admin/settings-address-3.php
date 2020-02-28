@@ -1,0 +1,1 @@
+<input name="gtgContact_address_3" id="gtgContact_address_3" type="text" class="code" value="<?php echo get_option( 'gtgContact_address_3' ); ?>" /> Adres linijka 3.

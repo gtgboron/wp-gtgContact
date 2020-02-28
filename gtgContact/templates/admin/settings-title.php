@@ -1,0 +1,1 @@
+<input name="gtgContact_title" id="gtgContact_title" type="text" class="code" value="<?php echo get_option( 'gtgContact_title' ); ?>" /> Tekst pod tytułem strony kontaktowej.
